@@ -1,74 +1,112 @@
 # 📊 Superstore Analytics Dashboard – Tableau
 
-An interactive Tableau dashboard created using the **Superstore dataset** to analyze sales performance, profitability, product performance, customer segments, regional performance, and sales trends.
+An interactive **Tableau Analytics Dashboard** developed using the Superstore dataset to analyze sales performance, product performance, customer segments, regional sales, and sales trends.
 
 ## 📷 Dashboard Preview
 
+<img width="1888" height="848" alt="Analytics Report Project" src="https://github.com/user-attachments/assets/5f237341-5574-4c2b-bb38-44895af9fa04" />
 
+
+---
 
 ## 📌 Project Overview
 
-This dashboard provides an interactive view of Superstore business performance through key metrics and visualizations.
+This project presents an interactive business analytics dashboard designed to provide a clear view of Superstore sales performance.
 
-### Key Areas Covered
+The dashboard combines **KPIs, charts, geographic visualization, filters, and trend analysis** to help users explore business performance and identify important patterns.
 
-- Sales by Category
-- Sales by Sub-Category
-- Sales by State
-- Top 5 Products by Sales
-- Sales by Customer Segment
-- Sales Trend
-- Profit Margin
-- Returned Rate
-- Regional Analysis
+---
 
 ## 📈 Key KPIs
 
-- **Total Sales**
-- **Profit Margin**
-- **Returned Rate**
-- **Top Product Sales**
-- **Category Performance**
+- 💰 **Total Sales**
+- 📊 **Profit Margin**
+- 🔄 **Returned Rate**
+- 🏆 **Top Product Sales**
+- 📦 **Category Performance**
 
-## 🎯 Interactive Features
+---
 
-The dashboard includes interactive filters for:
+## 📊 Dashboard Features
+
+### 🔹 Sales by Category
+
+Analyzes sales contribution across:
+
+- Technology
+- Furniture
+- Office Supplies
+
+### 🔹 Sales by Sub-Category
+
+Compares sales performance across different product sub-categories, including:
+
+- Phones
+- Chairs
+- Storage
+- Tables
+- Binders
+- Machines
+- Accessories
+- Copiers
+- Bookcases
+- Appliances
+
+### 🔹 Sales by State
+
+Interactive map showing sales distribution across different states in the United States.
+
+### 🔹 Top 5 Products by Sales
+
+Identifies the top-performing products based on sales amount.
+
+### 🔹 Sales by Customer Segment
+
+Analyzes sales contribution from:
+
+- Consumer
+- Corporate
+- Home Office
+
+### 🔹 Sales Trend
+
+Displays sales performance over time to identify trends and changes in business performance.
+
+---
+
+## 🎛️ Interactive Filters
+
+The dashboard allows users to interact with the data using:
 
 - Region
 - Year of Order Date
 - Category
 - Metric
 
-Users can select different filters to explore the data and analyze business performance.
-
-## 🛠️ Tools & Technologies
-
-- Tableau
-- Microsoft Excel
-- Data Analysis
-- Data Visualization
-- Business Intelligence
-
-## 📂 Project Files
-
-| File | Description |
-|---|---|
-| `Analytics Report Project.twbx` | Tableau packaged workbook |
-| `sample_-_superstore.xls` | Superstore dataset |
-| `netflix_titles.xlsx` | Additional dataset |
-
-## 📊 Dashboard
-
-The Tableau workbook can be opened using **Tableau Desktop** or **Tableau Reader**.
-
-## 👩‍💻 Contributors
-
-**Ashwini Shinde**  
-Data Analytics | Tableau | Power BI | Excel
-
-**Pratik Shere**  
-Data Analyst | Power BI | Python Developer
+These filters allow users to explore different business scenarios and analyze specific segments of the data.
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository.
+## 🛠️ Tools & Technologies
+
+- **Tableau**
+- **Microsoft Excel**
+- **Data Analysis**
+- **Data Visualization**
+- **Business Intelligence**
+- **Dashboard Development**
+
+---
+
+## 📂 Project Structure
+
+```text
+Tableau-Superstore-Analytics-Dashboard/
+│
+├── 📁 Dataset/
+│   ├── netflix_titles.xlsx
+│   └── sample_-_superstore.xls
+│
+├── 📄 Analytics Report Project.png
+├── 📄 Analytics Report Project.twbx
+└── 📄 README.md
